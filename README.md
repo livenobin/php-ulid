@@ -5,9 +5,6 @@
 
 A PHP port of [ulid/javascript](https://github.com/ulid/javascript) with some minor improvements.
 
-<a href="https://webstronauts.com/">
-    <img src="https://webstronauts.com/badges/sponsored-by-webstronauts.svg" alt="Sponsored by The Webstronauts" width="200" height="65">
-</a>
 
 ## Installation
 
